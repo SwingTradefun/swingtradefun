@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/9dfdb116-2206-4e69-b829-d3689ef7c908)
-
+![image](https://github.com/user-attachments/assets/eccbd591-698b-4235-94df-78f364059c7a)
 
 # Solana AI Swing Trading Agent (MVP)
 
